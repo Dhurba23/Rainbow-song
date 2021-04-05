@@ -1,2 +1,3 @@
 # Rainbow-song
-A son about rainbow
+A song about rainbow.
+it has 7 colours
